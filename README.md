@@ -1,12 +1,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithya%20Prakash%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=16"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithya+Prakash+G+%F0%9F%91%8B;B.E.+CSE+%40+Sri+Eshwar+College+of+Engineering;Full-Stack+Dev+%7C+ML+%7C+Java+%7C+Python;1200%2B+Problems+Solved+on+SkillRack+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithya+Prakash+G+%F0%9F%91%8B;B.E.+CSE+%40+Sri+Eshwar+College+of+Engineering;Full-Stack+Dev+%7C+ML+%7C+Java+%7C+Python;1200%2B+Problems+Solved+on+SkillRack+%F0%9F%94%A5;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NithyaPrakash18&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NithyaPrakash18&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/NithyaPrakash18?label=Followers&style=flat-square&color=bf91f3" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20ML-38bdae?style=flat-square" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lives-Tamil%20Nadu%2C%20India-70a5fd?style=flat-square" alt="Lives"/>
+</div>
 
 ---
 
@@ -15,7 +23,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class NithyaPrakash18:
+class NithyaPrakashG:
     def __init__(self):
         self.name        = "Nithya Prakash G"
         self.location    = "Tamil Nadu, India 🇮🇳"
@@ -41,7 +49,7 @@ class NithyaPrakash18:
     def motto(self):
         return "Code it. Break it. Fix it. Ship it. 🚀"
 
-me = NithyaPrakash18()
+me = NithyaPrakashG()
 print(me.motto())
 ```
 
@@ -108,6 +116,18 @@ print(me.motto())
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NithyaPrakash18/NithyaPrakash18/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NithyaPrakash18/NithyaPrakash18/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/NithyaPrakash18/NithyaPrakash18/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
@@ -130,8 +150,8 @@ print(me.motto())
 
 | 🚀 Project | 🛠️ Stack | ✨ Highlights |
 |:-----------|:---------|:-------------|
-| [**Hostel Management System**](https://github.com/NithyaPrakash18) | Python · Django | End-to-end hostel admin automation — improves accountability, accuracy & operational transparency. Handles resident records, room allocation & admin workflows. |
-| [**Urban Graze Dinner**](https://github.com/NithyaPrakash18) | HTML · CSS · JavaScript | E-commerce food hub with curated dinner menus, portion customization, secure checkout, saved addresses & live order-tracking — restaurant quality at home. |
+| [**Hostel Management System**](https://github.com/NithyaPrakash18/python-project) | Python · Django | End-to-end hostel admin automation — improves accountability, accuracy & operational transparency. Handles resident records, room allocation & admin workflows. |
+| [**Urban Graze Dinner**](https://github.com/NithyaPrakash18/E-Commerce_Website) | HTML · CSS · JavaScript | E-commerce food hub with curated dinner menus, portion customization, secure checkout, saved addresses & live order-tracking — restaurant quality at home. |
 | [**Volunteer Sign-Up Board**](https://github.com/NithyaPrakash18) | Java · Spring Boot · Thymeleaf | Full-stack event management app — volunteers register, organisers manage sign-ups via clean REST-backed interface. |
 | [**Medical Equipment Demand Forecasting**](https://github.com/NithyaPrakash18) | Python · scikit-learn | End-to-end ML pipeline using regression, classification & clustering to deliver accurate demand forecasts; results visualised for operational decisions. |
 
@@ -183,6 +203,14 @@ print(me.motto())
 
 ---
 
+## 😂 Dev Joke of the Day
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card"/>
+</div>
+
+---
+
 ## 📬 Connect with Me
 
 <div align="center">
@@ -193,6 +221,12 @@ print(me.motto())
 [![SkillRack](https://img.shields.io/badge/SkillRack-00B4D8?style=flat-square&logo=skillshare&logoColor=white)](https://www.skillrack.com/profile/nithyaprakashg)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nithyaprakash.g2024cse@sece.ac.in)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <br/>
